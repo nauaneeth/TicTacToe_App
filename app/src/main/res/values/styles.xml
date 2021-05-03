@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.TicTacToe.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textSize">@dimen/min_text_height</item>
+    </style>
+</resources>
